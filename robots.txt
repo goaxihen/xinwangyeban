@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://goaxihen.github.io/xinwangyeban/sitemap.xml
